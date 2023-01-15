@@ -3,7 +3,7 @@ variables allow us to reuse any values properties.
 
 ### In Js three types of variable 
 
-| Syntax | Defination |
+| 🎯 Syntax |🐱 Defination |
 | ------ | ----------- |
 | Var    | in <code>var</code> keyword we can difnine and assign values multiple times.|
 | let | We can not declear multiple time, but we can assign multiple time in <code>let</code> keyword|
